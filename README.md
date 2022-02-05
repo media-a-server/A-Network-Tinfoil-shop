@@ -18,7 +18,7 @@ Password: reddit
 
 
 
-Other Tinfoil Shops:
+*Other Tinfoil Shops:*
 ----------------------
 
 
@@ -100,7 +100,7 @@ Title: jits
 
 
 
-NSW Download Links:
+*NSW Download Links:*
 ----------------------
 
 - https://nsw2u.org/
