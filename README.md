@@ -19,6 +19,7 @@ Password: reddit
 
 
 Other Tinfoil Shops:
+----------------------
 
 
 # Stealth Shop
@@ -100,6 +101,7 @@ Title: jits
 
 
 NSW Download Links:
+----------------------
 
 - https://nsw2u.org/
 - https://nsw2u.xyz/
