@@ -7,7 +7,7 @@ We are hosting our very own tinfoil shop, right now there are only few games add
 
 
 A-Network Tinfoil Shop:
------------------------
+
 Protocol: nut
 Host: a-network.ca
 Port: 9000
@@ -19,7 +19,7 @@ Password: reddit
 
 
 Other Tinfoil Shops:
---------------------
+
 
 # Stealth Shop
 Protocol: https
@@ -35,8 +35,8 @@ Title: Nekoshop
 Protocol: https
 Host: quotanx.in
 Title: QuotaShop
-...
-...
+
+
 # Pengu shop
 Protocol: https
 Host: pengu.us
@@ -100,7 +100,6 @@ Title: jits
 
 
 NSW Download Links:
--------------------
 
 - https://nsw2u.org/
 - https://nsw2u.xyz/
