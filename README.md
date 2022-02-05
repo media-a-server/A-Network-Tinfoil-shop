@@ -1,5 +1,5 @@
 A-Network Tinfoil Shop
------------------------
+----------------------
 
 We are hosting our very own tinfoil shop, right now there are only few games added, but we will be add more later on in the future so keep checking for updates
 
