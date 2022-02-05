@@ -7,7 +7,7 @@ We are hosting our very own tinfoil shop, right now there are only few games add
 
 
 A-Network Tinfoil Shop:
-
+----------------------
 Protocol: nut
 Host: a-network.ca
 Port: 9000
